@@ -1,9 +1,21 @@
 # preghealthcarebot
 
-Here's a README file for your project:
+## 🔑 Highlights
 
----
+- 🧠 **Fine-tuned LLaMA 2–7B** using QLoRA with 4-bit quantization
+- 🛠️ Used **PEFT + Hugging Face Transformers**
+- 🧾 Dataset: 5000+ QA pairs from NHM, curated for pregnant women & ASHA workers
+- 📊 **93% accuracy** on domain-specific test set
+- 🧪 Tracked results via **Weights & Biases**
+- ☁️ **Deployed to Hugging Face Hub**
 
+## 🧰 Tech Stack
+
+- Python, PyTorch, Transformers (HF)
+- QLoRA, BitsandBytes, PEFT
+- Weights & Biases
+- Dataset: Manual + scraped NHM documents
+- 
 # Fine-Tuning Llama 2 with QLoRA
 
 This project demonstrates how to fine-tune the Llama 2 model using parameter-efficient fine-tuning (PEFT) techniques like QLoRA to optimize the usage of limited resources.
