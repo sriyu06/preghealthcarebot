@@ -20,7 +20,7 @@
 
 This project demonstrates how to fine-tune the Llama 2 model using parameter-efficient fine-tuning (PEFT) techniques like QLoRA to optimize the usage of limited resources.
 
-## Step-by-Step Instructions
+## Step-by-Step Instructions (Step 1 to Step 9)
 
 ### Step 1: Install Required Packages
 
