@@ -3,7 +3,7 @@
 ## 🔑 Highlights
 
 - 🧠 **Fine-tuned LLaMA 2–7B** using QLoRA with 4-bit quantization
-- 🛠️ Used **PEFT + Hugging Face Transformers**
+- 🛠️ Used **PEFT + Hugging Face Transformers** for optimised and accurate results
 - 🧾 Dataset: 5000+ QA pairs from NHM, curated for pregnant women & ASHA workers
 - 📊 **93% accuracy** on domain-specific test set
 - 🧪 Tracked results via **Weights & Biases**
